@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@napi-rs/canvas": "^0.1.53",
     "@skyra/gifenc": "^1.0.1",
